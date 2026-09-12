@@ -4,8 +4,8 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
+- Họ và tên: Chu Phúc Anh
+- Mã học viên: 2A202602370
 - Nhóm:
 - Candidate problem nhóm chọn:
 
